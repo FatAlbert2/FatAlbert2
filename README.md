@@ -1,4 +1,4 @@
-###Hey hey hey, it's Chase Thompson Today
+**Hey hey hey, it's Chase Thompson Today**  
 This account is not my main one, this is for school only. I can code in HTML5, Python & Java, and I am currently taking a Java course at my high school.
 
 <!--
